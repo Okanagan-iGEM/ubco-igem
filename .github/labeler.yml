@@ -3,7 +3,7 @@ github-actions:
     - any-glob-to-any-file: 
       - ./.github/**
       - ./.gitignore
-back-end:
+back-end-config:
   - changed-files:
     - any-glob-to-any-file:
       - ./tailwind.config.mjs
